@@ -44,6 +44,5 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-green?style=plastic&logo=Visual%20Studio%20code)
 
 ### Usual Working On
-![Win10](https://img.shields.io/badge/-Windows-blue?style=plastic&logo=Windows)
 ![linux](https://img.shields.io/badge/-linux-orange?style=plastic&logo=linux)
 ![MacOS](http://img.shields.io/badge/-MacOS-lightgrey?style=plastic&logo=Apple)
