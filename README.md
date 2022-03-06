@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### something about me
 - A programmer from China Mainland
 - A liftlong learner
-- Forever a G.E.M. fan
+- Forever a small kid fan
 - using java mainly but not only java
 - current want to read some source code and know how they work
 - Touch everything about program world and looking for The direction of in-depth research
